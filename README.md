@@ -1,11 +1,11 @@
-<h1 align="center">Oi 👋, Me chamo Gabriel</h1>
+<h1 align="center">Oi 👋, Eu me chamo Gabriel</h1>
 <h3 align="center">Apaixonado por ciência e análise de dados no mundo digital</h3>
 
-- 🌱 Atualmente estou aprendendo **Python e mA **
+- 🌱 Atualmente estou aprendendo: Python e Macnine learning
 
-- 📫 Você me acha através do E-mail **gabriel.fsilva0005@gmail.com**
+- 📫 Você me achar através do E-mail: gabriel.fsilva0005@gmail.com
 
-- 📄 Minhas experiências [https://www.linkedin.com/in/gabriel-silva-696486228/]
+- 📄 Minhas experiências: [https://www.linkedin.com/in/gabriel-silva-696486228/]
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
