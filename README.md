@@ -8,7 +8,7 @@
 - 📄 Minhas experiências: https://www.linkedin.com/in/gabriel-silva-696486228/
 
 <h3 align="left">Conecte-se comigo 🤝:</h3>
-<i class="fa-brands fa-linkedin-in"></i>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--!Font Awesome Free 6.5.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/fre
 
 
 <!--
