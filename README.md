@@ -8,7 +8,8 @@
 - 📄 Minhas experiências: https://www.linkedin.com/in/gabriel-silva-696486228/
 
 <h3 align="left">Conecte-se comigo 🤝:</h3>
-<a href="https://www.flaticon.com/br/icones-gratis/linkedin" title="linkedin ícones"></a>
+<img>![linkedin](https://github.com/gg-f/gg-f/assets/139813337/5d2f1ae2-0477-45b7-9dcb-dfc1e154ccd8)
+<img>
 <p align="left">
 
 
