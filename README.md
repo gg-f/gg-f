@@ -5,7 +5,7 @@
 
 - 📫 Você me acha através do E-mail **gabriel.fsilva0005@gmail.com**
 
-- 📄 Minhas experiências [https://www.linkedin.com/in/gabriel-silva-696486228/](https: //www.linkedin.com/in/gabriel-silva-696486228/)
+- 📄 Minhas experiências [https://www.linkedin.com/in/gabriel-silva-696486228/]
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
