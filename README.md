@@ -9,7 +9,7 @@
 
 <h3 align="left">Conecte-se comigo 🤝:</h3>
 <p align="left">
-<a href="https:// linkedin.com/in/https://www.linkedin.com/in/gabriel-silva-696486228/" target="blank"></a>
+[![Blog]https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://www.linkedin.com/in/gabriel-silva-696486228/)
 </p>
 
 <h3 align="left">Idiomas e ferramentas:</h3>
